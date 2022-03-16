@@ -4,7 +4,7 @@
     <test name="AuthorizationService">
         <classes>
             <class name="com.stc.tests.logintest.LoginTest" />
-            <class name="com.stc.tests.logouttest.LogOutTest"></class>
+            <class name="com.stc.tests.logouttest.LogOutTest" />
             <class name="com.stc.tests.sessiontest.SessionStateTest" />
         </classes>
     </test>
