@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test">
+
+    <test name="AuthorizationService">
+        <classes>
+            <class name="com.stc.tests.logintest.LoginTest" />
+            <class name="com.stc.tests.logouttest.LogOutTest"></class>
+            <class name="com.stc.tests.sessiontest.SessionStateTest" />
+        </classes>
+    </test>
+</suite>
