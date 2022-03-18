@@ -1,8 +1,8 @@
 # RestDemo
 # Исходные данные по тестируемому сервису:
 Сервис авторизации VkSession, через который пользователи авторизуются в системе.
-1.Базовый URL для Rest API сервиса: https://vkplatform5.speechpro.com/vksession/rest
-2.Документация Swagger доступна по: https://vkplatform5.speechpro.com/vksession/help/#/
+Базовый URL для Rest API сервиса: https://vkplatform5.speechpro.com/vksession/rest
+Документация Swagger доступна по: https://vkplatform5.speechpro.com/vksession/help/#/
 
 # В задании тестируем только следующие возможности сервиса по API:
 1. Операция login и получение идентификатора сессии (Swagger описание тут https://vkplatform5.speechpro.com/vksession/help/#!/session/login)
